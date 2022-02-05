@@ -2,8 +2,8 @@
 // @name         favez0ne url fixer
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  try to take over the world!
-// @author       You
+// @description  remove annoing ads
+// @author       user77553
 // @match        https://www.favez0ne.net/search.php
 // @icon         https://www.google.com/s2/favicons?domain=favez0ne.net
 // @grant        none
